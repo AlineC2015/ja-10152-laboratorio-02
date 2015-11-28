@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laboratorio02</string>  
+    <string name="action_settings">Settings</string>
+    <string name="bem_vindo">Bem Vind ao Android!</string>
+    <string name="dsv_por">Desenvolvido por Aline Costa</string>
+    <string name="btn_env">Enviar</string>
+    <string name="btn_cancel">Cancelar</string>
+   
+</resources>
